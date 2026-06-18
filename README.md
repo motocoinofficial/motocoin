@@ -1,4 +1,3 @@
-
 # 🏍️ MotoCoin $MOTO
 
 ## 🚀 O que é?
@@ -14,8 +13,12 @@ Construído sobre **liberdade, trabalho duro e inovação**, com lançamento jus
 
 ## 🔗 Canais oficiais
 - X (Twitter): https://x.com/vendasmottubr
-- Telegram:@motocoin_official
+- Telegram: @motocoin_official
 - Site: https://gamma.app/docs/A-criptomoeda-da-mobilidade-brasileira-5i9icr1kbalz95p
 
 ## ⚠️ Aviso importante
-Este é um projeto comunitário experimental. **Alto risco — não constitui recomendação financeira**. Sempre pesquise por conta própria antes de investir.
+Este é um projeto comunitário independente, não vinculado oficialmente a nenhuma marca ou fabricante. É um projeto experimental. **Alto risco — não constitui recomendação financeira**. Sempre pesquise por conta própria antes de investir.
+ 
+ 
+ 
+ 

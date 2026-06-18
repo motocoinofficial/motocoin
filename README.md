@@ -12,7 +12,6 @@ Construído sobre **liberdade, trabalho duro e inovação**, com lançamento jus
 - Plataforma: https://pump.fun/coin/27rsyP9K7qyHWKG7MsWU4dhVCh5w8TU2e91beaKjpump
 
 ## 🔗 Canais oficiais
--
 - Telegram: @motocoin_official
 - Site: https://gamma.app/docs/A-criptomoeda-da-mobilidade-brasileira-5i9icr1kbalz95p
 
